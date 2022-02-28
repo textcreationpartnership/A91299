@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three seasonable quæres, proposed to all those cities, counties and boroughs, whose respective citizens, knights and burgesses have been forcibly excluded, uniustly eiected, and disabled to sit in the Commons house, by those now acting at Westminster.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91299</idno>
+            <idno type="STC">Wing P4105</idno>
+            <idno type="STC">Thomason 669.f.23[3]</idno>
+            <idno type="STC">ESTC R211480</idno>
+            <idno type="EEBO-CITATION">99870205</idno>
+            <idno type="PROQUEST">99870205</idno>
+            <idno type="VID">163659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163659)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f23[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three seasonable quæres, proposed to all those cities, counties and boroughs, whose respective citizens, knights and burgesses have been forcibly excluded, uniustly eiected, and disabled to sit in the Commons house, by those now acting at Westminster.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thomas, at the Adam and Eve in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By William Prynne.</note>
+                  <note>Annotation on Thomason copy: "Jan. 19. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163659:1" rendition="simple:additions"/>
+            <head>Three Seaſonable Quaeres, PROPOSED To all thoſe <hi>Cities, Counties</hi> and <hi>Boroughs,</hi> whoſe reſpective Citizens, Knights and Burgeſſes have been forcibly <hi>excluded,</hi> uniuſtly eiected, and diſabled to ſit in the Commons houſe, by thoſe now acting at WESTMINSTER.</head>
+            <p>IT being the indubitable birthright, privilege and franchiſe of all <hi>Citizens, Freeholders</hi> and <hi>Burgeſſes</hi> of every <hi>City, County</hi> and <hi>Borough</hi> of the Realm of <hi>England,</hi> freely to elect 2. <hi>Citizens, Knights</hi> and <hi>Burgeſſes,</hi> by vertue of the <hi>Kings Writs,</hi> and to give them <hi>full and ſufficient power</hi> by their <hi>Indentures</hi> under their Seals, both for <hi>themſelves and the re<g ref="char:EOLhyphen"/>ſpective Commonalties of the ſaid Cities, Counties and Boroughs, to do and conſent to all Lawes, Aydes, Taxes, and things which ſhall be ordained or impoſed on them by common Counſel, and conſent in every Parliament of this Realm;</hi> which Citizens, Knights and Burgeſſes, ought freely to fit and vote in the <hi>Commons Houſe</hi> in their behalf, as their <hi>Trustees</hi> and <hi>Repreſentatives,</hi> from the beginning to the end of every Parliament for which they are elected without interruption, or excluſion, and not to be ejected or voted out of the Houſe, but for ſome notable Miſdemeanour or breach of their Parliamentary Truſt, by judgement of Parliament, upon a particular impeachment or charge againſt them, after a deliberate hearing, trial, and judgment pronounced againſt them at the bar, according to the rules of Juſtice and courſe of Parliament; All which is evident by the known <hi>Laws and Statutes of this Realm,</hi> the <hi>Writs of Summons</hi> to, and Records, Preſidents of Parlia<g ref="char:EOLhyphen"/>ment, the Reſolutions of Judges, Law-books, and all Writers of the Parliaments of <hi>England,</hi> of late and former times.</p>
+            <p n="1">1. Whether all the <hi>Burgeſſes</hi> of the City of <hi>Weſtminſter</hi> (where the <hi>Fragment</hi> of the long <hi>Parliament</hi> now ſits in ſtate) garded with their <hi>Militia,</hi> and other armed forces, whoſe two <hi>Burgeſſes, John Glyn,</hi> now Serjeant at Law, and <hi>William Bell</hi> Gentleman, ſtill living; the Lord <hi>Maior, Aldermen, Common Council,</hi> and <hi>Citizens</hi> of <hi>London,</hi> 2. of whoſe 3. remaining Citizens, Sir <hi>Thomas Soam</hi> Knight, and <hi>Samuel Vaſſal</hi> Merchant; all the <hi>Freeholders</hi> in the County of <hi>Middleſex,</hi> (within which they are aſſembled) whoſe only ſurviving Knight of the Shire, <hi>Gilbert Ger<g ref="char:EOLhyphen"/>rard Baronet;</hi> all <hi>Freeholders</hi> of the Countie of <hi>Hartford,</hi> whoſe 2. Knights of the Shire, Sir <hi>William Litton,</hi> and Sir <hi>Thomas Dacres</hi> Knights: of <hi>Surry,</hi> whoſe 2. Knights, Sir <hi>Richard Ownſlow</hi> Knight, and Sir <hi>Ambroſe Brown</hi> Baronet; (all ad<g ref="char:EOLhyphen"/>joyning) All <hi>Freeholders</hi> within the remoter Counties of <hi>Glouceſter,</hi> whoſe 2. Knights <hi>Nathaniel Stephens</hi> Eſquire, and Sir <hi>John Seymer</hi> Knight; of <hi>Oxfordſhire,</hi> whoſe 2. Knights <hi>Thomas Viſcount Wenman,</hi> and <hi>James Fiennes</hi> 
+               <abbr>Eſq</abbr> all yet living; and of all other <hi>Counties, Cities,</hi> and <hi>Boroughs</hi> throughout <hi>England</hi> and <hi>Wales,</hi> one or both of whoſe <hi>Knights, Citizens</hi> or <hi>Burgeſſes</hi> yet in life, have been heretofore <hi>forcibly</hi> ſecured, or <hi>excluded</hi> by armed Gards from fitting and vo<g ref="char:EOLhyphen"/>ting freely in the Houſe of <hi>Commons</hi> in Decemb. 1648. or in <hi>May</hi> and <hi>Decemb.</hi> 1659. by the confederacy, practice, <hi>order</hi> or <hi>commands</hi> of the Membersthen or now fitting, and by their new-printed <hi>Vote</hi> of the 5th. of this inſtant <hi>January,</hi> in<g ref="char:EOLhyphen"/>ſtead of admitting them for a <hi>New-years Gift,</hi> have voted them quite out of <hi>the Houſe and Parliament,</hi> and <hi>adjudged them to ſtand duly diſcharged by Judgement of Parliament from ſitting as Members of Parliament, during this Par<g ref="char:EOLhyphen"/>liament; and that new Writs do iſſue forth for electing New Members in their places;</hi> before any legal <hi>impeachment</hi> againſt or <hi>hear<g ref="char:EOLhyphen"/>ing, tryal, conviction of all or any of them;</hi> and without rendering any <hi>Ground</hi> or <hi>Reaſon</hi> at all in their <hi>
+                  <g ref="char:V">Ʋ</g>ote</hi> or any other <hi>Declaration,</hi> to theſe worthy ejected <hi>Knights, Citizens,</hi> or <hi>Burgeſſes</hi> themſelves, or to the reſpective <hi>Counties, Cities, Boroughs,</hi> whoſe <hi>Truſtees</hi> and <hi>Repreſentatives</hi> they are, of this their <hi>forcible Secluſion, Ejection,</hi> and <hi>Non-ability</hi> to fit or vote accord<g ref="char:EOLhyphen"/>ing to the <hi>Power</hi> and truſt repoſed in them by the <hi>Counties,</hi> and <hi>Commonalties,</hi> who elected, returned, and impowred them under their reſpective <hi>ſealed Indentures.</hi> Bee not all in Juſtice, Honour, Duty and Conſcienee ſeverally obliged, both by the <hi>Laws of the Land,</hi> their <hi>Proteſtation,</hi> and <hi>Solemn National League and Covenant,</hi> and the late <hi>Preſident</hi> of the <hi>Inhabitants</hi> and <hi>Freeholders</hi> of the County of <hi>Buckingham, Jan.</hi> 13. 1641. in the Caſe of Mr. <hi>John Hampden,</hi> choſen one of the Knights of that Shire (when <hi>impeached</hi> and demanded by the King to be delivered up to him by the <hi>Houſe)</hi> both for the vindication of the <hi>Rights and Privileges of Parliament,</hi> the <hi>Innocency</hi> and <hi>Integrity</hi> of theſe their diſ-membered untain<g ref="char:EOLhyphen"/>ted <hi>Trustees,</hi> in whom they had <hi>good cauſe to confide,</hi> and of their own <hi>Judgements, Integrities, Care</hi> and <hi>Prudence</hi> in their E<g ref="char:EOLhyphen"/>lections, as the <hi>diſcreeteſt</hi> and <hi>ableſt Perſons</hi> to <hi>ſerve them,</hi> &amp; the whole Kingdom in and during the continuance of this <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> and for the Preſervation of their own <hi>Freedom</hi> in their Elections, before they proceed to elect any <hi>New Members</hi> in their places, unanimouſly, magnanimouſly, and perſonally at the Houſe bar, to demand of their bold <hi>Ejectors,</hi> (thus keep<g ref="char:EOLhyphen"/>ing and caſting them out by <hi>armed forces</hi> raiſed only for their protection to ſit and vote with freedom and ſafety) the true <hi>Grounds</hi> and <hi>Reaſons</hi> of this their unwarrantable <hi>Ejectment;</hi> and in caſe they cannot or ſhall not give them a <hi>ſatisfactory</hi> account of the <hi>Legality</hi> and <hi>Iuſtice</hi> of this their <hi>Excluſion</hi> for ſome particular <hi>Miſdemeanours</hi> or <hi>Breaches</hi> of their publick <hi>Truſts,</hi> and of the manner of their Proceeding theirin without hearing or impeachment, then to require ſpeedy and full Reparations from them, for the <hi>Injury, Indignity</hi> and <hi>Injuſtice</hi> done thereby, both to their <hi>Truſtees</hi> and <hi>themſelves,</hi> and not to ſubmit to any thing they vote or impoſe, as binding to them, in any kind, till this be effected, ſince their aſſents in their names and ſteads, is the <hi>only reaſon</hi> in Law, that makes their Acts and Impoſitions binding to them?</p>
+            <p n="2">2. Whether the ſitting <hi>Members</hi> may not and will not in all probability, with as much <hi>Juſtice</hi> and <hi>Reaſon,</hi> by meer <hi>force</hi> and <hi>will,</hi> Exclude and eject all <hi>Members</hi> which ſhall be newly elected by thoſe <hi>Counties, Cities</hi> or <hi>Boroughs,</hi> in place of the old ſecluded and ejected <hi>Members,</hi> in caſe they ſuſpect or conceit they will not comply with, or will overvote them in their <hi>Inno<g ref="char:EOLhyphen"/>vations</hi> and Deſigns, as they have excluded and ejected thoſe old Members, and put them upon ſucceſſive Elections of other Members, till they have compleated their Projections without them; or packed a Houſe of their own <hi>Creatures</hi> and <hi>Con<g ref="char:EOLhyphen"/>federates,</hi> to carry on their private Intereſts, not the publick Peace, wealth and ſettlement of theſe Nations?</p>
+            <p n="3">3. Whether their new intended <hi>Qualifications</hi> of <hi>Electors</hi> and <hi>Perſons</hi> to be Elected to fill up the Houſe, and high new <hi>Engagement,</hi> to be impoſed on all new Members, before their admiſſion, be not a more arbitrary and <hi>Tyrannical violation</hi> and ſubverſion of the peoples <hi>Rights and Liberties</hi> in the freedom of their <hi>Elections,</hi> and of the <hi>Rights and Privi<g ref="char:EOLhyphen"/>leges of Parliament,</hi> than ever beheaded <hi>King Charles,</hi> or any of his Predeceſſors were guilty of? an apparent Breach and repeal of the <hi>Great Charter of England,</hi> ch. 9. &amp; 29. of 25 E. 1. c. 1. 28 E. 1. c. 1. 25 E. 3. c. 4. The Petition of Right, 3 <hi>Caroli.</hi> the Statutes of 3 E. 1. c. 5. &amp; 9 E. 2. c. 13. <hi>That all Elections ought to be free and freely made:</hi> and of the ſpecial Acts of 5 R. 2. c. 4. 7 H. 4. c. 15. 1 H. 5. c. 1. 8 H. 6. c. 7. 10 H. 1. c. 2. 23 H. 6. c. 15. &amp; 35 H. 8. c. 11. &amp; 16 Caroli c. 1. for E<g ref="char:EOLhyphen"/>lecting of <hi>Knights, Citizens</hi> and <hi>Burgeſſes</hi> to ſerve in Parliaments, and Clauſ. 11.. R. 2. dorſ. 23, 24? yea a new <hi>Machiavelian Policy,</hi> to ſeclude out of the Houſe, all Perſons of Honour, and Piety, who make conſcience of their former <hi>Oaths of Supre<g ref="char:EOLhyphen"/>macy, Allegiance, Proteſtation, Vow, Covenant,</hi> and abhor all <hi>Perjury</hi> and <hi>Treachery;</hi> ſince themſelves account all their for<g ref="char:EOLhyphen"/>mer <hi>Oaths, Proteſtations, Vows, Covenants</hi> and <hi>Engagements,</hi> unobligatory to themſelves, or the Nation, violating them at their pleaſure, that themſelves may ſtill fit, act and rule alone as formerly? Or elſe a meer Engin to recruit the <hi>Houſe</hi> with ſuch <hi>New Members</hi> (who will ſwallow down any Abjurations, Oathes and Engagements themſelves ſhall impoſe upon them) of their own party and Confederacy, againſt the publick Intereſt, by diſabling whom they pleaſe, to <hi>Elect,</hi> or be <hi>Elected</hi> to fit together with them?</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Edward Thomas, <hi>at the</hi> Adam <hi>and</hi> Eve <hi>in</hi> Little Britain. <hi>1660.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
